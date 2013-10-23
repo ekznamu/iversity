@@ -8,8 +8,8 @@ line-height: 120%;
 display: block;
 }
 #container {
-width: 64em;
-min-width: 760px;
+width: 50em;
+min-width: 500px;
 margin: 0 auto;
 padding: 10px;
 clear: both;
@@ -23,7 +23,8 @@ border-right: .1em solid #B9CADF;
 border-bottom: .1em solid #B9CADF;
 background: #fff;
 padding: 10px;
-width: 45em;
+
+width: 90%;
 min-width: 700px;
 }
 
